@@ -1,0 +1,18 @@
+100 - Hosted on Heroku(Required)
+100 - Custom domain name (mansbestfriend.happyforever.com)(Required)
+100 - Instructor/discretionary(Required)
+300 - 4 complete HTML pages with content:
+     1 - Home/ About page
+     2 - Health Problems commonly suffered in modern age
+     3 - Health Benefits of dogs to those problems
+     4 - Man's Best friend: way dogs' relationships with people benefit people
+
+200 - Custom CSS or Bootstrap for design - Bootstrap file added to folder
+
+100 - Use a Heroku addon to your project - Heroku Postgres::Database
+	-Algolia Realtime Search
+	-Mailgun
+50 - Use at least 2 custom images - all of the images/ videos except 1 are
+	original (mutual rescue).
+
+50 - Use a 3rd party font icon like FontAwesome - Used plus box for bullets
